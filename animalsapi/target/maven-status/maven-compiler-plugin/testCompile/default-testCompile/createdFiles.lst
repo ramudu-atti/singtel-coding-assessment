@@ -1,5 +1,9 @@
 com/singtel/ram/test/ParrotTest.class
+com/singtel/ram/test/SharkFishTest.class
+com/singtel/ram/test/ClownFishTest.class
+com/singtel/ram/test/DolphinTest.class
 com/singtel/ram/test/RoosterTest.class
-com/singtel/ram/test/DuckTest.class
 com/singtel/ram/test/BirdTest.class
 com/singtel/ram/test/ChickenTest.class
+com/singtel/ram/test/DuckTest.class
+com/singtel/ram/test/ButterflyTest.class

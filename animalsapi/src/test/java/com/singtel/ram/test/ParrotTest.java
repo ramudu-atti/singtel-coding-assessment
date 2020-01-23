@@ -57,7 +57,7 @@ public class ParrotTest {
 
 		}
 		@Test
-		public void testCParrotLivingWithRoosterCanSing() {
+		public void testParrotLivingWithRoosterCanSing() {
 			Parrot parrot = new Parrot();
 			parrot.setLivingWithAnimal(new Rooster());
 			assertEquals(true, parrot.sing());

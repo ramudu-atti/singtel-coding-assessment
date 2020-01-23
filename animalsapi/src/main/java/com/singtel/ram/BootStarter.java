@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan({"com.singtel.ram","com.singtel.ram.model","com.singtel.ram.model.impl"})
+@ComponentScan({"com.singtel.ram","com.singtel.ram.model","com.singtel.ram.model.impl","com.singtel.ram.consts"})
 public class BootStarter {
 
 	public static void main(String[] args) {

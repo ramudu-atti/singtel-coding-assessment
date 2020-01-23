@@ -10,10 +10,10 @@ import com.singtel.ram.model.impl.Fish;
 public class DolphinTest {
 	
 	
-	@Test(expected=NullPointerException.class)
-	public void testDolphinSim(){
+	@Test
+	public void testDolphinFly(){
 		Dolphin dolphin=new Dolphin();
-		assertFalse(dolphin.swim());
+		assertFalse(dolphin.fly());
 		
 	}
 

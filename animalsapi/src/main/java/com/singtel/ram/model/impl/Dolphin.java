@@ -13,7 +13,9 @@ import com.singtel.ram.model.Swimmable;
  */
 public class Dolphin extends Animal implements Swimmable{
 
-	private Fish fish;
+	private Fish fish=new Fish();
+	
+	
 
 	public void setFishBehvior(Fish fish) {
 		this.fish = fish;

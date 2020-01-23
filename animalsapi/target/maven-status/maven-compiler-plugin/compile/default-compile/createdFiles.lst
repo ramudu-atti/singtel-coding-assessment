@@ -1,10 +1,17 @@
 com/singtel/ram/model/impl/Rooster.class
+com/singtel/ram/model/impl/Shark.class
 com/singtel/ram/model/Swimmable.class
 com/singtel/ram/model/impl/Bird.class
+com/singtel/ram/model/impl/Dolphin.class
+com/singtel/ram/model/impl/Fish.class
 com/singtel/ram/model/Animal.class
+com/singtel/ram/model/impl/ClownFish.class
+com/singtel/ram/consts/ButterflyStage.class
 com/singtel/ram/model/impl/Dog.class
 com/singtel/ram/model/Walkable.class
+com/singtel/ram/AnimalsCount.class
 com/singtel/ram/BootStarter.class
+com/singtel/ram/model/impl/Butterfly.class
 com/singtel/ram/model/impl/Parrot.class
 com/singtel/ram/model/impl/Cat.class
 com/singtel/ram/model/Flyable.class
